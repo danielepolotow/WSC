@@ -1,4 +1,4 @@
 # WSC
 World Spider Catalog
 
-Bar Chart
+Bar Chart Race
